@@ -1,0 +1,64 @@
+.app-body {
+  text-align: center;
+  padding-top: 100px;
+}
+
+.sub-body {
+  max-width: 60vw;
+  background-color: rgba(140, 136, 136, 0.268);
+  margin: auto;
+}
+
+.header-main {
+  padding: 50px 100px 10px 30px;
+  text-align: left;
+  border-bottom: 1px solid grey;
+}
+
+.input-body {
+  margin: 5px;
+}
+
+.input-field {
+  width: 90%;
+  height: 40px;
+  border: 1px solid grey;
+  padding-left: 15px;
+}
+
+.header-sub {
+  text-align: left;
+  padding: 0px 25px;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.Card {
+  padding: 20px 0px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.body-components {
+  display: flex;
+
+}
+
+
+.img {
+  width: 80px;
+}
+
+.ul-right {
+  background-color: white;
+  margin: 40px;
+  padding-right: 40px;
+  width: 50%;
+}
+
+.ul-left {
+  background-color: white;
+  margin: 40px;
+  padding-right: 40px;
+  width: 50%;
+}
